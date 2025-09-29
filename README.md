@@ -13,7 +13,8 @@ Silver and Gold layers are stored in **Delta format** for better reliability, pe
 * **Bronze Layer** – Raw data ingestion from On-Prem to Azure Data Lake.
 * **Silver Layer (Delta)** – Data cleansing, transformations, and incremental load.
 * **Gold Layer (Delta)** – Aggregated and business-ready views.
-![Project Workflow](Architecture/ADF - Architecture.png)
+* 
+![Project Workflow](Architecture/ADFArchitecture.png)
 
 
 ---
